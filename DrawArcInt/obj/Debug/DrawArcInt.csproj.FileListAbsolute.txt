@@ -1,0 +1,9 @@
+D:\Projects\DrawArcInt\DrawArcInt\bin\Debug\DrawArcInt.exe.config
+D:\Projects\DrawArcInt\DrawArcInt\bin\Debug\DrawArcInt.exe
+D:\Projects\DrawArcInt\DrawArcInt\bin\Debug\DrawArcInt.pdb
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.csprojResolveAssemblyReference.cache
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.Form1.resources
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.Properties.Resources.resources
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.csproj.GenerateResource.Cache
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.exe
+D:\Projects\DrawArcInt\DrawArcInt\obj\Debug\DrawArcInt.pdb
